@@ -312,3 +312,10 @@ Interested in:
 ## 📜 Disclaimer
 
 This project is created for educational and portfolio purposes. It is not intended to replace professional agricultural diagnosis or expert advice.
+
+
+
+<img width="390" height="382" alt="image" src="https://github.com/user-attachments/assets/b8e35f01-ba8a-4460-96d7-1bba93d59c60" />
+
+<img width="404" height="293" alt="image" src="https://github.com/user-attachments/assets/44707626-dfe5-4315-a6fc-862d6be307fb" />
+
