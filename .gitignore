@@ -11,8 +11,8 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Model files
-models/*.pth
+
+
 
 # Dataset
 PlantVillage-Dataset/
